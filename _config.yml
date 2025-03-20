@@ -26,7 +26,19 @@ exclude:
   - README.md
   - scripts/
   - not-pure-poole.gemspec
-
+  
+# Optimize Jekyl SEO Tag
+twitter:
+  username: HenryW
+  card: summary
+logo: icon.png
+social:
+  name: HenryW
+  links:
+    - https://
+    - https://
+google_site_verification: xxxxx
+lang: en
 
 sass:
   sass_dir: _sass
