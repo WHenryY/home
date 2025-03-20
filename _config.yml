@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Syrup Memoir
+description: If life were ambrosia destined to ferment, I would wish her to become the wine that mellows with centuries.
+url: https://whenryy.github.io/home/
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -27,18 +27,6 @@ exclude:
   - scripts/
   - not-pure-poole.gemspec
 
-# Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
-logo: logo.png
-social:
-  name: Songzi Vong
-  links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
-google_site_verification: xxxxx
-lang: en
 
 sass:
   sass_dir: _sass
@@ -54,6 +42,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: HenryW
+  url: https://whenryy.github.io/home/
+  #email: @gmail.com
